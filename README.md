@@ -1,4 +1,4 @@
-# Hyperbolic graph viewer
+# Gravity visualization
 
 ## Specification
 
